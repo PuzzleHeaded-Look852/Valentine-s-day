@@ -82,7 +82,7 @@ class CatchSanjay {
     init() {
         this.container.innerHTML = `
             <div id="score">Score: 0</div>
-            <img src="IMG_0993.png" id="sanjay" style="position: absolute; width: 80px;">
+            <img src="IMG_0993.PNG" id="sanjay" style="position: absolute; width: 80px;">
         `;
         
         const sanjayImg = document.getElementById('sanjay');
