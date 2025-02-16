@@ -59,7 +59,11 @@ function generateContract() {
             <li>To pretend I like cinnabon milkshakes as much as you do (they're 70% sugar, 30% magic)</li>
             <li>To maintain my "World's Okayest Boyfriend" title through dad jokes and bad puns</li>
             <li>To save up for a pink Aston Martin (disclaimer: may be Hot Wheels size)</li>
+            <li>To never be scared of anyone knowing about us (I would really shout your name out anywhere)</li>
+            <li>(I'm not scared 🙄)</li>
         </ul>
+
+        <p>Radhey, your name rhymes with Sanjay, Anyone can say, that we're the best couple they say.</p>
 
         <p>This contract shall be binding until:<br>
         1. The heat death of the universe<br>
